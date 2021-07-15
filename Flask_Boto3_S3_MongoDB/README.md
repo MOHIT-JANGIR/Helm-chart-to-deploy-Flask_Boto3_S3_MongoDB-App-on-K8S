@@ -1,6 +1,6 @@
 # 🔥 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 "𝐅𝐥𝐚𝐬𝐤+𝐁𝐨𝐭𝐨𝟑+𝐀𝐖𝐒 𝐒𝟑+𝐌𝐨𝐧𝐠𝐨𝐃𝐁+𝐋𝐢𝐧𝐮𝐱+𝐏𝐲𝐭𝐡𝐨𝐧𝟑+𝐇𝐓𝐌𝐋+𝐎𝐰𝐧 𝐂𝐮𝐬𝐭𝐨𝐦 𝐏𝐲𝐭𝐡𝐨𝐧 𝐌𝐨𝐝𝐮𝐥𝐞𝐬"...🔥
 
-## 📢 I, [MOHIT JANGIR](https://www.linkedin.com/in/mohit-jangir-86b290174/), have successfully Created a Flask WebApp i.e. Actually like a online portal for Job-Applicants, Where they can upload their Name, Email, Resume etc , Utilising the Power of AWS S3(For Storing Big-Data Files) & MongoDB(To Store Static Data With Reference Of S3) in the BackEnd ...📢
+## 📢 I, [MOHIT JANGIR](https://www.linkedin.com/in/mohit-jangir-86b290174/) , have successfully Created a Flask WebApp i.e. Actually like a online portal for Job-Applicants, Where they can upload their Name, Email, Resume etc , Utilising the Power of AWS S3(For Storing Big-Data Files) & MongoDB(To Store Static Data With Reference Of S3) in the BackEnd ...📢
 
 
 # Flask

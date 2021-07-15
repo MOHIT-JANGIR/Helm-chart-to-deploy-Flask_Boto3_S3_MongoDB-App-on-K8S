@@ -1,15 +1,22 @@
+# 🔥 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 "𝐅𝐥𝐚𝐬𝐤+𝐁𝐨𝐭𝐨𝟑+𝐀𝐖𝐒 𝐒𝟑+𝐌𝐨𝐧𝐠𝐨𝐃𝐁+𝐋𝐢𝐧𝐮𝐱+𝐏𝐲𝐭𝐡𝐨𝐧𝟑+𝐇𝐓𝐌𝐋+𝐎𝐰𝐧 𝐂𝐮𝐬𝐭𝐨𝐦 𝐏𝐲𝐭𝐡𝐨𝐧 𝐌𝐨𝐝𝐮𝐥𝐞𝐬"...🔥
+
+## 📢 I, [MOHIT JANGIR](https://www.linkedin.com/in/mohit-jangir-86b290174/), have successfully Created a Flask WebApp i.e. Actually like a online portal for Job-Applicants, Where they can upload their Name, Email, Resume etc , Utilising the Power of AWS S3(For Storing Big-Data Files) & MongoDB(To Store Static Data With Reference Of S3) in the BackEnd ...📢
+
+
 # Flask
 
-[Flask](https://flask-doc.readthedocs.io/en/latest/) is the leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
+## [Flask](https://flask-doc.readthedocs.io/en/latest/) is a web framework, it’s a Python module that lets you develop web applications easily. It’s has a small and easy-to-extend core: it’s a microframework that doesn’t include an ORM (Object Relational Manager) or such features.
 
-This chart installs a Flask_Boto3_S3_MongoDB WebApp Over K8S which spawns agents on [Kubernetes](http://kubernetes.io) utilizing the [Jenkins Kubernetes plugin](https://plugins.jenkins.io/kubernetes/).
+## It does have many cool features like url routing, template engine. It is a WSGI web app framework.
 
-Created by the awesome work of [MOHIT JANGIR](https://github.com/MOHIT-JANGIR).
+## This chart installs a Flask_Boto3_S3_MongoDB WebApp Over K8S which spawns agents on [Kubernetes](http://kubernetes.io) utilizing the [Jenkins Kubernetes plugin](https://plugins.jenkins.io/kubernetes/).
+
+# Created by the awesome work of [MOHIT JANGIR](https://github.com/MOHIT-JANGIR).
 
 ## Get Repo Info
 
 ```console
-helm repo add jenkins https://mohit-jangir.github.io/K8S_HELM_CHART/charts
+helm repo add jenkins https://mohit-jangir.github.io/Helm-chart-to-deploy-Flask_Boto3_S3_MongoDB-App-on-K8S/charts
 helm repo update
 ```
 
@@ -19,7 +26,7 @@ _See [helm repo](https://helm.sh/docs/helm/helm_repo/) for command documentation
 
 ```console
 # Helm 3
-$ helm install [RELEASE_NAME] flask/flask [flags]
+$ helm install [RELEASE_NAME] Flask_Boto3_S3_MongoDB/Flask_Boto3_S3_MongoDB [flags]
 ```
 
 _See [configuration](#configuration) below._
@@ -41,7 +48,7 @@ _See [helm uninstall](https://helm.sh/docs/helm/helm_uninstall/) for command doc
 
 ```console
 # Helm 3
-$ helm upgrade [RELEASE_NAME] jenkins/jenkins [flags]
+$ helm upgrade [RELEASE_NAME] Flask_Boto3_S3_MongoDB/Flask_Boto3_S3_MongoDB [flags]
 ```
 
 _See [helm upgrade](https://helm.sh/docs/helm/helm_upgrade/) for command documentation._
@@ -55,5 +62,5 @@ To see all configurable options with detailed comments, visit the chart's [value
 
 ```console
 # Helm 3
-$ helm show values flask/flask
+$ helm show values Flask_Boto3_S3_MongoDB/Flask_Boto3_S3_MongoDB
 ```

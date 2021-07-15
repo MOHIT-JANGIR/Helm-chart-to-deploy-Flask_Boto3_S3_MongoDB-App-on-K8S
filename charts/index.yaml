@@ -6,7 +6,7 @@ entries:
     created: "2021-07-15T20:12:13.297691917+05:30"
     description: A Helm chart to deploy a Flask_Boto3_S3_MongoDB web-app on the Kubernetes cluster
     digest: 64711f1e778c07926b3c2bff693c1cb04f964a8da542661409514e9b87802d4f
-    name: FLASK-BOTO3-S3-MONGODB
+    name: flask-boto3-s3-mongodb
     type: application
     urls:
     - FLASK-BOTO3-S3-MONGODB-0.1.0.tgz

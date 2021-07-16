@@ -1,17 +1,17 @@
 # 🔥 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 "𝐅𝐥𝐚𝐬𝐤+𝐁𝐨𝐭𝐨𝟑+𝐀𝐖𝐒 𝐒𝟑+𝐌𝐨𝐧𝐠𝐨𝐃𝐁+𝐋𝐢𝐧𝐮𝐱+𝐏𝐲𝐭𝐡𝐨𝐧𝟑+𝐇𝐓𝐌𝐋+𝐎𝐰𝐧 𝐂𝐮𝐬𝐭𝐨𝐦 𝐏𝐲𝐭𝐡𝐨𝐧 𝐌𝐨𝐝𝐮𝐥𝐞𝐬"...🔥
 
-## 📢 I, [MOHIT JANGIR](https://www.linkedin.com/in/mohit-jangir-86b290174/) , have successfully Created a Flask WebApp i.e. Actually like a online portal for Job-Applicants, Where they can upload their Name, Email, Resume etc , Utilising the Power of AWS S3(For Storing Big-Data Files) & MongoDB(To Store Static Data With Reference Of S3) in the BackEnd ...📢
+📢 I, [MOHIT JANGIR](https://www.linkedin.com/in/mohit-jangir-86b290174/) , have successfully Created a Flask WebApp i.e. Actually like a online portal for Job-Applicants, Where they can upload their Name, Email, Resume etc , Utilising the Power of AWS S3(For Storing Big-Data Files) & MongoDB(To Store Static Data With Reference Of S3) in the BackEnd ...📢
 
 
 # Flask
 
-## [Flask](https://flask-doc.readthedocs.io/en/latest/) is a web framework, it’s a Python module that lets you develop web applications easily. It’s has a small and easy-to-extend core: it’s a microframework that doesn’t include an ORM (Object Relational Manager) or such features.
+[Flask](https://flask-doc.readthedocs.io/en/latest/) is a web framework, it’s a Python module that lets you develop web applications easily. It’s has a small and easy-to-extend core: it’s a microframework that doesn’t include an ORM (Object Relational Manager) or such features.
 
-## It does have many cool features like url routing, template engine. It is a WSGI web app framework.
+It does have many cool features like url routing, template engine. It is a WSGI web app framework.
 
-## This chart installs a Flask_Boto3_S3_MongoDB WebApp Over K8S which spawns agents on [Kubernetes](http://kubernetes.io) utilizing the [Jenkins Kubernetes plugin](https://plugins.jenkins.io/kubernetes/).
+This chart installs a Flask_Boto3_S3_MongoDB WebApp Over K8S which spawns agents on [Kubernetes](http://kubernetes.io) utilizing the [Jenkins Kubernetes plugin](https://plugins.jenkins.io/kubernetes/).
 
-# Created by the awesome work of [MOHIT JANGIR](https://github.com/MOHIT-JANGIR).
+Created by the awesome work of [MOHIT JANGIR](https://github.com/MOHIT-JANGIR).
 
 ## Get Repo Info
 
